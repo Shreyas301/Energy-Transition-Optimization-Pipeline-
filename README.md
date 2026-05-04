@@ -400,14 +400,6 @@ MIT License — feel free to fork, modify, and use this as a learning resource.
 
 ---
 
-## 👤 Author
 
-**Shreyas Sandbhor**
-
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- Email: shreyassandbhor301@gmail.com
-
----
 
 *If you found this project useful, please ⭐ the repository!*
